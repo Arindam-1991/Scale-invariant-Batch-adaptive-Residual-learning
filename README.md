@@ -1,2 +1,2 @@
 # Scale-invariant Batch-Adaptive Residual Learning for Person re-id
-Source Code for Scale-Invariant Batch-Adaptive Residual Learning for Person Re-identification Pattern Recognit. Lett. 2020
+This Repository contains the Source Code for Pattern Recognition Letters 2020 paper, "Scale-Invariant Batch-Adaptive Residual Learning for Person Re-identification". Please consider citing our paper if you find the code useful
