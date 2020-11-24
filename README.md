@@ -1,4 +1,4 @@
-# Scale-invariant Batch-Adaptive Residual Learning for Person Re-id
+# Scale-invariant Batch-Adaptive Residual Learning for Person Re-id (source code comming soon!)
 This Repository contains the Source Code for "[Scale-Invariant Batch-Adaptive Residual Learning for Person Re-identification](https://www.sciencedirect.com/science/article/pii/S0167865519303526)". Please consider citing our if you find the code useful.
 
 ### Citation    
